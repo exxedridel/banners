@@ -84,7 +84,7 @@ export default function Home() {
             Contáctanos <span>&darr;</span>
           </h2>
           <p className={inter.className}>
-            Envía tu Hoja de vida o CV a: carrers@setapps.co
+            Envía tu Hoja de vida o CV a: careers@setapps.co
           </p>
         </a>
       </div>
